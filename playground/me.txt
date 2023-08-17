@@ -1,5 +1,1 @@
-{{#user}}
-Name: Mahdi Hasan
-Skills: HTML, CSS, JS, Bootstrap, TailwindCSS,React.js,  Next.js, Node.js, Express.js, MongoDb, Axios, Tanstack Query, JWT, Stripe Gateway
-Email: mahdihasan10599@gmail.com
-{{/user}}
+
